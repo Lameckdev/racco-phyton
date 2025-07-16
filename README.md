@@ -1,1 +1,1 @@
-#racco Assistente virtuaç
+#racco Assistente virtual
